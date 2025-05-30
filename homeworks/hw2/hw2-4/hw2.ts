@@ -5,7 +5,7 @@ type Book2 = {
     username: string,
     password: string,
 }
-let users:Book2[] =[
+let users5:Book2[] =[
     {name:'Vasya', username:'batman', password:'thdtg'},
     {name:'Petya', username:'police', password:'343566'},
     {name:'Anna', username:'flower', password:'aff3433fgzrt4'},
@@ -17,14 +17,14 @@ let users:Book2[] =[
     {name:'Nastya', username:'Nastya77', password:'w354353'},
     {name:'Lena', username:'Lena@', password:'sfs43'}
 ]
-console.log(users[0].password)
-console.log(users[1].password)
-console.log(users[2].password)
-console.log(users[3].password)
-console.log(users[4].password)
-console.log(users[5].password)
-console.log(users[6]['password'])
-console.log(users[7]['password'])
-console.log(users[8]['password'])
-console.log(users[9]['password'])
+console.log(users5[0].password)
+console.log(users5[1].password)
+console.log(users5[2].password)
+console.log(users5[3].password)
+console.log(users5[4].password)
+console.log(users5[5].password)
+console.log(users5[6]['password'])
+console.log(users5[7]['password'])
+console.log(users5[8]['password'])
+console.log(users5[9]['password'])
 
